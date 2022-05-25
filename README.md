@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there friends👋
+
+Do you like my Github profile?
 
 <!--
 **adityanarayanm095/adityanarayanm095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
